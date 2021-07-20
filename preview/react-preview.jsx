@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { AzureMap, AzureMapsProvider } from '../dist/react-azure-maps.es6';
+import { AzureMap, AzureMapsProvider } from '../dist/react-azure-maps-next-js.es6';
 
 const option = {
   authOptions: {
