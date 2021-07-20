@@ -1,3 +1,9 @@
+### Modified to not import CSS within package
+
+All credit to WiredSolutions.
+
+
+
 # WiredSolutions React-Azure-Maps
 
 [![npm](https://img.shields.io/npm/v/react-azure-maps.svg) ![npm](https://img.shields.io/npm/dm/react-azure-maps.svg)](https://www.npmjs.com/package/react-azure-maps) [![license](https://img.shields.io/npm/l/react-azure-maps.svg)](https://github.com/WiredSolutions/react-azure-maps/blob/master/LICENSE)

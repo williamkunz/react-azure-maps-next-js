@@ -1,7 +1,7 @@
 {
-  "name": "react-azure-maps",
-  "version": "0.3.0",
-  "description": "React Wrapper for Azure Maps",
+  "name": "react-azure-maps-next-js",
+  "version": "0.3.1",
+  "description": "React Wrapper for Azure Maps with next js",
   "keywords": [
     "react",
     "reactjs",
@@ -19,10 +19,10 @@
   "files": [
     "dist"
   ],
-  "author": "WiredSolutions",
+  "author": "William Kunz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WiredSolutions/react-azure-maps"
+    "url": "https://github.com/WiredSolutions/react-azure-maps-next-js"
   },
   "license": "MIT",
   "engines": {
